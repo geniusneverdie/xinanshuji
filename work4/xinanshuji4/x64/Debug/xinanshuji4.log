@@ -1,0 +1,6 @@
+﻿  xinanshuji4.cpp
+D:\daerxia\xinxianquanshuxuejichu\codes\work4\xinanshuji4\xinanshuji4.cpp(70,21): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\daerxia\xinxianquanshuxuejichu\codes\work4\xinanshuji4\xinanshuji4.cpp(71,33): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\daerxia\xinxianquanshuxuejichu\codes\work4\xinanshuji4\xinanshuji4.cpp(87,12): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\daerxia\xinxianquanshuxuejichu\codes\work4\xinanshuji4\xinanshuji4.cpp(109,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  xinanshuji4.vcxproj -> D:\daerxia\xinxianquanshuxuejichu\codes\work4\xinanshuji4\x64\Debug\xinanshuji4.exe
